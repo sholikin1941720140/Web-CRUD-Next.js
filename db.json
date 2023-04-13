@@ -1,0 +1,59 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "NIM": "1941720160",
+      "nama": "Micin",
+      "alamat": "Malang",
+      "hp": "081216055665",
+      "angkatan": "19",
+      "status": "Aktif"
+    },
+    {
+      "id": 2,
+      "NIM": "1941720155",
+      "nama": "Khalid bin walid",
+      "alamat": "Malang",
+      "hp": "082231957772",
+      "angkatan": "20",
+      "status": "Cuti"
+    },
+    {
+      "id": 3,
+      "NIM": "1941720441",
+      "nama": "Rifky Arya",
+      "alamat": "Malang",
+      "hp": "082231956446",
+      "angkatan": "19",
+      "status": "Aktif"
+    },
+    {
+      "id": 4,
+      "NIM": "1941720122",
+      "nama": "Davin Wibisono",
+      "alamat": "Surabaya",
+      "hp": "082231999999",
+      "angkatan": "21",
+      "status": "Cuti"
+    },
+    {
+      "id": "5",
+      "nim": "1941720142",
+      "nama": "Irul",
+      "alamat": "Ngawi",
+      "hp": "083131591444",
+      "angkatan": "2019",
+      "status": "Aktif"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
